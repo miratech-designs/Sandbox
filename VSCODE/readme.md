@@ -12,6 +12,8 @@
     * Set up central package management for the solution.
     * <packageversion /> properties will contain full reference with version.
     * In csproj file, <packagereference /> properties will contain reference without the version.
+    * [Docs](https://learn.microsoft.com/en-us/nuget/consume-packages/Central-Package-Management)
+    * [Tool](https://github.com/Webreaper/CentralisedPackageConverter)
 4. Code Quality
     * Add config in the directory.build.props file to include code quality and set build to break on warnings.
     * Override the warnings in the IDE, and it will add to the editorconfig file.
@@ -20,4 +22,5 @@
     * Options: Docker Compose or Azure Aspire.
 6. CI/CD
     * Use GitHub Actions or other CI/CD tools. 
-9. 
+
+
