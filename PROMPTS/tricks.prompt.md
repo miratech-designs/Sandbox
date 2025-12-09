@@ -1,3 +1,22 @@
+AI PROMPTS
+
+Classic 4 part construction:
+
+1. Context
+   I’m a small business owner looking for marketing advice
+   
+2. Info
+   I’m improving my website and need suggestions and options for…
+   
+3. Intent
+   I need more beneficial… to grow my business
+   
+4. Output Format
+    Provide me a numbered list of your suggestions 
+
+---
+7 Trick Prompts For Performance 
+
 1. “Take a Deep Breath”
 
 I’m serious.
