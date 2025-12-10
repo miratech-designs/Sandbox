@@ -1,6 +1,6 @@
 The .claude Folder: A 10-Minute Setup That Makes AI Code Smarter
 ​
- Summary
+Summary
 The .claude folder is a lightweight setup that helps Claude Code, an AI coding agent, understand your project’s coding standards, structure, and quality expectations. By creating a few text files explaining your team’s preferences, you can improve the relevance and accuracy of Claude’s suggestions, saving time and ensuring consistent code quality. This setup is a simple yet effective way to onboard Claude and enhance its productivity within your project.
 ​
 Manojkumar Vadivel
