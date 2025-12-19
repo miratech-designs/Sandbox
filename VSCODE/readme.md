@@ -3,7 +3,7 @@
 1. Solution Level .editorconfig
     * Apply code styling for all files and projects within the solution.
     * [https://github.com/dotnet/runtime/blo...](https://github.com/dotnet/runtime)
-    * [custome editorconfig](https://gist.github.com/m-jovanovic/417b7d0a641d7dd7d1972550fba298db )
+    * [custome editorconfig](https://gist.github.com/m-jovanovic/417b7d0a641d7dd7d1972550fba298db)
 2. Build Configuration
     * Use Directory.Build.props xml file.
     * <packagereference /> properties will apply to all projects (good for code quality packages like Sonar).
@@ -21,6 +21,6 @@
     * Available from the solution by right-clicking “add docker support”.
     * Options: Docker Compose or Azure Aspire.
 6. CI/CD
-    * Use GitHub Actions or other CI/CD tools. 
+    * Use GitHub Actions or other CI/CD tools.
 
 
