@@ -53,10 +53,8 @@
 
 ## Data Access Patterns
 
-- Guide the implementation of a data access layer using Entity Framework Core.
-- Explain different options (SQL Server, SQLite, In-Memory) for development and production.
+- Guide the implementation of a data access layer using Dapper.
 - Demonstrate repository pattern implementation and when it's beneficial.
-- Show how to implement database migrations and data seeding.
 - Explain efficient query patterns to avoid common performance issues.
 
 ## Authentication and Authorization

@@ -44,48 +44,6 @@ Use this file as a copy-paste template for consistent, high-quality CoPilot prom
 
 ---
 
-## Copy-ready Markdown Template
-
-```markdown
-# [Title]
-
-**Goal:**  
-[One-sentence outcome]
-
-**Context:**  
-- Repo/files: [repo, file paths]  
-- Current behavior: [short summary]  
-- Related notes: [design decisions, links]
-
-**Inputs:**  
-- [Code snippet or attach file]  
-- [Test output or sample data]
-
-**Outputs (format):**  
-- [e.g., Diff, code file, markdown doc, JSON]
-
-**Constraints:**  
-- [Style guide, no new deps, line length, security rules...]
-
-**Steps:**  
-1. [Step 1: short]  
-2. [Step 2: short]  
-3. [Step 3: short]
-
-**Tone/Role:**  
-[Persona and style]
-
-**Clarifying Questions (if any):**  
-1. [Question 1]  
-2. [Question 2]
-
-**Acceptance Criteria:**  
-- [Criteria 1]  
-- [Criteria 2]
-```
-
----
-
 ## Sample Prompts
 
 ### Sample 1 — Bug Fix
