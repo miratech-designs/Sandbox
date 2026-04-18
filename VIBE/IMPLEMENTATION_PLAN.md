@@ -1,0 +1,1 @@
+“Write an IMPLEMENTATION_PLAN.md for this app based on the PRD, app flow, and backend structure. Break it into phases and numbered steps in the correct build order. Start with the foundation and end with polish.”

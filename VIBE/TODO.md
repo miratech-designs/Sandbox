@@ -1,0 +1,1 @@
+“Using the IMPLEMENTATION_PLAN.md, create a TODO.md formatted as a step-by-step checklist the AI will use to track execution progress. Each step should have: a checkbox ([ ]), a step number, a short action label, and a status (pending/in progress/done). The AI should update this file after completing each step so it always reflects the current state of the build.”

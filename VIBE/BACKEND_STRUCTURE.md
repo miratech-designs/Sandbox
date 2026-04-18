@@ -1,0 +1,1 @@
+“Write a BACKEND_STRUCTURE.md for this app: [brief description]. Include all database tables with field names and types, relationships between tables, and a list of API endpoints with their methods, inputs, and expected responses.”

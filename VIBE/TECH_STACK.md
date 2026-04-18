@@ -1,0 +1,1 @@
+“Write a TECH_STACK.md for a [type] app using [your preferred stack]. Include exact versions for every dependency — frontend framework, backend, database, auth, deployment, and any key libraries.”

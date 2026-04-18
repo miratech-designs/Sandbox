@@ -1,0 +1,1 @@
+“Act as a product manager. Based on this idea: [your idea], write a PRD.md that covers the purpose, core features, out-of-scope items, and success criteria. Keep it concise and clear.”

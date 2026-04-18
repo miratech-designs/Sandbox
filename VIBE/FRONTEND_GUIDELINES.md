@@ -1,0 +1,1 @@
+“Create a FRONTEND_GUIDELINES.md for my app. Include: color palette (hex values), typography scale, spacing system, button variants, form styles, and any reusable component patterns I should follow consistently.”

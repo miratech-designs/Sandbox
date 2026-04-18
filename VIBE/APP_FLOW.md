@@ -1,0 +1,1 @@
+“Write an APP_FLOW.md for this app: [brief description]. List every page, the user paths between them, and any conditional flows (logged in vs. logged out, empty states, errors).”
