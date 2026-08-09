@@ -112,7 +112,7 @@ Include:
   •	AutoScaling.WorkerPool.ConsoleExample
   •	AutoScaling.WorkerPool.AspNetExample
 
-ncluding:
+Including:
 	•	Multi-targeting: net8.0;netstandard2.1
 	•	Proper XML metadata for NuGet
 	•	Icon placeholder
